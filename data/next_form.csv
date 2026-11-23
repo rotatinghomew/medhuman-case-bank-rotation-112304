@@ -1,0 +1,4 @@
+form,audience,opens,state,min_categories,minutes,anchor_capacity,graders
+N1,旧版练习组,2026-10-11T09:00:00+08:00,opened,3,49,2,A
+N2,异地轮转组,2026-10-12T10:00:00+08:00,sealed,3,54,2,"A,B"
+N3,补考组,2026-10-14T09:00:00+08:00,draft,2,44,2,B

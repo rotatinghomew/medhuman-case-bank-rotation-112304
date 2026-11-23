@@ -1,0 +1,76 @@
+{
+  "task.csv": [
+    "id",
+    "root",
+    "category",
+    "minutes",
+    "scale",
+    "status"
+  ],
+  "student.csv": [
+    "id",
+    "term",
+    "group",
+    "background"
+  ],
+  "use.csv": [
+    "form",
+    "term",
+    "group",
+    "stage",
+    "task",
+    "opened",
+    "state"
+  ],
+  "answer.csv": [
+    "student",
+    "form",
+    "task",
+    "skill",
+    "score",
+    "received",
+    "status"
+  ],
+  "lesson_issue.csv": [
+    "id",
+    "root",
+    "term",
+    "groups",
+    "sent",
+    "state"
+  ],
+  "overlap.csv": [
+    "a",
+    "b",
+    "status",
+    "received"
+  ],
+  "next_form.csv": [
+    "form",
+    "audience",
+    "opens",
+    "state",
+    "min_categories",
+    "minutes",
+    "anchor_capacity",
+    "graders"
+  ],
+  "seal.csv": [
+    "form",
+    "task",
+    "status",
+    "time"
+  ],
+  "anchor.csv": [
+    "task",
+    "scope",
+    "min_independent_uses",
+    "max_forms"
+  ],
+  "team.csv": [
+    "grader",
+    "available_day",
+    "skill",
+    "capacity"
+  ]
+}

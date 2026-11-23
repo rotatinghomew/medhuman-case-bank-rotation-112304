@@ -1,0 +1,7 @@
+task,scope,min_independent_uses,max_forms
+I02,common,2,3
+I06,common,2,3
+I16,common,2,2
+I18,common,2,3
+I21,common,2,2
+I24,common,2,3
